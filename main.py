@@ -63,3 +63,8 @@ while True:
    
     break
 
+numRows = input("How many rows?: ")
+print(numRows)
+
+numColumns = input("How many columns?: ")
+print(numColumns)
